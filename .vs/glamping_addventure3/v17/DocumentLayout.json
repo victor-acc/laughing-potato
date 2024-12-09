@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\reservas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\reservas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\models\\glampingaddventure3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\models\\glampingaddventure3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\abonoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\abonoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\controllers\\abonoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\controllers\\abonoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\models\\abono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\habitacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\habitacions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\abonoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\abonoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\abonoes\\_detailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\abonoes\\_detailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\habitacions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\habitacions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\habitacions\\_detailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\habitacions\\_detailspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|c:\\users\\color\\downloads\\joderco-oputa-main\\glamping_addventure3\\views\\muebles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A2DF785-462C-45B0-AD48-F150C7EB3CBB}|glamping_addventure3\\glamping_addventure3.csproj|solutionrelative:glamping_addventure3\\views\\muebles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Abonoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Abonoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Abonoes\\Create.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Abonoes\\Create.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T00:05:38.334Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Abonoes\\Index.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAFkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:44:12.753Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAIIBAAAAAAAAAAAYwJUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:49:59.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:42:20.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:35:46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:28:27.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Program.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Program.cs",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Program.cs",
+              "RelativeToolTip": "glamping_addventure3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:25:49.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlampingAddventure3Context.cs",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Models\\GlampingAddventure3Context.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Models\\GlampingAddventure3Context.cs",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Models\\GlampingAddventure3Context.cs",
+              "RelativeToolTip": "glamping_addventure3\\Models\\GlampingAddventure3Context.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADkAAACkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:20:25.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T07:18:16.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\appsettings.json",
+              "RelativeDocumentMoniker": "glamping_addventure3\\appsettings.json",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\appsettings.json",
+              "RelativeToolTip": "glamping_addventure3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T07:17:52.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Abono.cs",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Models\\Abono.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Models\\Abono.cs",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Models\\Abono.cs",
+              "RelativeToolTip": "glamping_addventure3\\Models\\Abono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:44:49.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Habitacions\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Habitacions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Habitacions\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Habitacions\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T00:10:26.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Models\\Reserva.cs",
+              "RelativeToolTip": "glamping_addventure3\\Models\\Reserva.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:34:00.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AbonoesController.cs",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "RelativeToolTip": "glamping_addventure3\\Controllers\\AbonoesController.cs",
+              "ViewState": "AQIAAFwBAAAAAAAAAAAAAGwBAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:31:59.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Habitacions\\Create.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Habitacions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Habitacions\\Create.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Habitacions\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T00:11:43.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_DetailsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Habitacions\\_DetailsPartial.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Habitacions\\_DetailsPartial.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Habitacions\\_DetailsPartial.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Habitacions\\_DetailsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T00:09:51.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_DetailsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Abonoes\\_DetailsPartial.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Abonoes\\_DetailsPartial.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Abonoes\\_DetailsPartial.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Abonoes\\_DetailsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T00:09:26.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Reservas\\Create.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Reservas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Reservas\\Create.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Reservas\\Create.cshtml",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAHoCAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:50:00.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Muebles\\Index.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Muebles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Muebles\\Index.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Muebles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:46:10.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Reservas\\Details.cshtml",
+              "RelativeDocumentMoniker": "glamping_addventure3\\Views\\Reservas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\color\\Downloads\\joderco-oputa-main\\glamping_addventure3\\Views\\Reservas\\Details.cshtml",
+              "RelativeToolTip": "glamping_addventure3\\Views\\Reservas\\Details.cshtml",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAAEgBAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T23:45:29.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
